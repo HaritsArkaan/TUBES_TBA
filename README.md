@@ -28,15 +28,19 @@ Keterangan:
 5. dikampus
 
 contoh input:
+
 -> SPOK:
 1. harits bermain bola dilapangan .
 2. rangga minum susu dirumah .
+
 -> SPO
 1. zahwa menyukai bunga .
 2. mereka makan kue .
+
 -> SPK
 1. mereka belajar hariini .
 2. kami bermain kemarin .
+
 -> SP
 1. harits makan .
 2. zahwa minum .
